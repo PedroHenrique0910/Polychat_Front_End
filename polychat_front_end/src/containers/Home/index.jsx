@@ -1,12 +1,18 @@
 import { Title } from "./styles"; 
-import Button from "../../components/Button/myButton";
+import NavBar from "../../components/navBar/navBar";
+import Main from "../../components/main/main";
+import Header from "../../components/header/header";
+import Footer from "../../components/footer/footer";
+import Aside from "../../components/aside/footer";
 
 function Home() {
   return (
     <div>
-      <Title>Welcome to Polychat</Title>
-      <p>This is the home page of the Polychat application.</p>
-      <Button />
+      <Header />
+      <NavBar />
+      <Main />
+      <Aside />
+      <Footer />
     </div>
   );
 }

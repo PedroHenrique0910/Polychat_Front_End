@@ -8,7 +8,7 @@ const myGlobalStyles = createGlobalStyle`
   }
 
   body {
-    background-color: black;
+    display: flex;
   }
 `;
 
