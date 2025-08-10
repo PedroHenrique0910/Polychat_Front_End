@@ -7,9 +7,6 @@ const myGlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 
-  body {
-    display: flex;
-  }
 `;
 
 export default myGlobalStyles;
