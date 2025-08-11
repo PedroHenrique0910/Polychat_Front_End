@@ -2,9 +2,9 @@ import { AsideContainer } from './styles';
 
 function Aside() {
   return (
-    <AsideContainer>
-      Minha Aside
-    </AsideContainer>
+        <AsideContainer>
+          Minha Aside
+        </AsideContainer>
   );
 }
 

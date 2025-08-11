@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const HeaderContainer = styled.header`
-  background-color: #ff00ddff;
+  background-image: linear-gradient(to right, #5D0382, #2C12A4, #07045D);
   height: 100px;
   flex: 1 1 100vw;
   display: flex;  

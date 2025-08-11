@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const AsideContainer = styled.aside`
-  background-color: #009ffcff;
+  background-color: #5D0382;
   margin: 3px;
-  flex: 1 1 200px;
+  flex: 15 1 200px;
 
 
    @media only screen and (max-width: 923px) {

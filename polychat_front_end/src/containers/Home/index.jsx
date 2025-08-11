@@ -10,7 +10,6 @@ function Home() {
    <HomeContainer>
       <Header />
       <Main />
-      <Aside />
       <Footer />
   </HomeContainer>
   );
